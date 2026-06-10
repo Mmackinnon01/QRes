@@ -1,0 +1,39 @@
+figure.figsize: 5, 3.7
+figure.dpi: 120
+
+font.size: 12
+axes.labelsize: 13
+xtick.labelsize: 11
+ytick.labelsize: 11
+legend.fontsize: 12
+
+font.family: serif
+font.serif: Times New Roman, Times, Nimbus Roman, DejaVu Serif
+mathtext.fontset: stix
+
+lines.linewidth: 1.5
+lines.markersize: 4
+axes.linewidth: 0.8
+
+xtick.direction: out
+ytick.direction: out
+xtick.major.size: 3
+ytick.major.size: 3
+xtick.minor.size: 2
+ytick.minor.size: 2
+xtick.major.width: 0.8
+ytick.major.width: 0.8
+xtick.minor.width: 0.6
+ytick.minor.width: 0.6
+
+legend.frameon: False
+figure.constrained_layout.use: True
+
+axes.grid: True
+grid.alpha: 0.35
+grid.linewidth: 0.4
+
+pdf.fonttype: 42
+ps.fonttype: 42
+savefig.bbox: tight
+savefig.dpi: 300
